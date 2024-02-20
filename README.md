@@ -30,7 +30,7 @@ Follow these steps to set up and run the Item Management System on your local ma
 
 1. *Clone the Repository:*
    ```bash
-   git clone https://github.com/rashotech/item-management-spring-boot.git
+   git clone https://github.com/davidakabogu/item-management.git
    
 2. *Database Configuration:*
    Set up a MySQL database and update the application.properties file with your database credentials.
